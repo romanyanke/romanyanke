@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+`npx romanyanke`
+
 <!--
 **romanyanke/romanyanke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
